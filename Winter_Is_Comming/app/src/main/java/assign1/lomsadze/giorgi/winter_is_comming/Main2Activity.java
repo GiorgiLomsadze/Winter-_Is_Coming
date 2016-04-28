@@ -16,7 +16,6 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
 
         TextView textView = (TextView) findViewById(R.id.nameView78);
-        ImageView imageView = (ImageView) findViewById(R.id.imageView12);
         Intent intent = getIntent();
         textView.setText(intent.getStringExtra("clicked"));
 

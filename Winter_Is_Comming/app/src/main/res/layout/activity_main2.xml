@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="assign1.lomsadze.giorgi.winter_is_comming.Main2Activity">
 
-   
+
 
     <TextView
         android:layout_width="wrap_content"
